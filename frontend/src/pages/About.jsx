@@ -67,7 +67,7 @@ const About = () => {
                                         <div className="space-y-3 sm:space-y-4">
                                             <div>
                                                 <h4 className="text-base sm:text-lg font-semibold text-blue-600 dark:text-blue-400">
-                                                    Navdeep Singh
+                                                    Minkal Verma
                                                 </h4>
                                                 <p className="text-sm sm:text-base text-gray-600 dark:text-gray-300">
                                                     Full Stack Developer

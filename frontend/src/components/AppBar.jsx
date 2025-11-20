@@ -20,7 +20,7 @@ const AppBar = ({ theme = 'dark' }) => {
     { title: 'Home', path: '/' },
     { title: 'Blogs', path: '/blogs' },
     { title: 'About', path: '/about' },
-    { title: 'Contact', path: 'https://deepnav4.github.io/Portfolio/' },
+    // { title: 'Contact', path: 'https://deepnav4.github.io/Portfolio/' },
   ];
 
   const themeStyles = {

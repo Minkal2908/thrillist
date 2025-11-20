@@ -847,7 +847,7 @@ const Home = () => {
               Designed and Developed with{" "}
               <span className="text-purple-500 dark:text-purple-400">❤️</span> by{" "}
               <a 
-                href="https://deepnav4.github.io/Portfolio/" 
+                href="#" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-gradient-to-r from-purple-600 to-violet-500
@@ -857,7 +857,7 @@ const Home = () => {
                          dark:hover:from-purple-500 dark:hover:to-violet-400
                          transition-all duration-300"
               >
-                Navdeep
+                Minkal Verma
               </a>
             </p>
           </motion.footer>
