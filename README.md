@@ -27,8 +27,9 @@ Designed for smooth performance, clean UI, and engaging user experience.
 ---
 
 ## 📸 Preview  
-![App Screenshot](your-screenshot-link)
-
+<p align="center">
+  <img src="./preview.png" width="800"/>
+</p>
 ---
 
 ## 🌐 Live Demo  
